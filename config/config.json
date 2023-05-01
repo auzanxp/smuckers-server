@@ -4,10 +4,11 @@
     "password": "ccl5abXX6OvS0MaaJkKh",
     "database": "railway",
     "host": "containers-us-west-56.railway.app",
+    "port": 6659,
     "dialect": "postgres"
   },
   "production": {
-    "use_env_variable":"DATABASE_URL",
+    "use_env_variable": "postgresql://postgres:ccl5abXX6OvS0MaaJkKh@containers-us-west-56.railway.app:6659/railway",
     "ssl": true,
     "dialect": "postgres",
     "protocol": "postgres",

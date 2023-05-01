@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "postgres",
-    "password": "auzan",
-    "database": "db_kawahedukasi",
-    "host": "127.0.0.1",
+    "password": "xZjzkSM6Y3XqLqS0kmYb",
+    "database": "railway",
+    "host": "containers-us-west-26.railway.app",
     "dialect": "postgres"
   },
   "production": {

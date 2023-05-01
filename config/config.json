@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "postgres",
-    "password": "xZjzkSM6Y3XqLqS0kmYb",
+    "password": "ccl5abXX6OvS0MaaJkKh",
     "database": "railway",
-    "host": "containers-us-west-26.railway.app",
+    "host": "containers-us-west-56.railway.app",
     "dialect": "postgres"
   },
   "production": {
